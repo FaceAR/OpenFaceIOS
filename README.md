@@ -25,3 +25,8 @@ The system is capable of performing a number of facial analysis tasks:
 - Facial Feature Extraction (aligned faces and HOG features)
 
 ![Sample aligned face and HOG image](https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/appearance.png)
+
+- IOS Facial Landmark Detection & head pose tracking & Gaze tracking
+- 
+![Sample IOS Result1](https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen1.png)
+![Sample IOS Result2](https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen2.png)
