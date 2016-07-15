@@ -27,6 +27,5 @@ The system is capable of performing a number of facial analysis tasks:
 ![Sample aligned face and HOG image](https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/appearance.png)
 
 - IOS Facial Landmark Detection & head pose tracking & Gaze tracking
-- 
-![Sample IOS Result1](https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen1.png)
-![Sample IOS Result2](https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen2.png)
+
+<img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen1.png" height="382" width="222" ><img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen2.png" height="382" width="222" >
