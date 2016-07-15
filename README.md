@@ -1,6 +1,6 @@
 #OpenFaceIOS
 
-OpenFace is from https://github.com/TadasBaltrusaitis/OpenFace, and I create an ios project. Delete Dlib, Boost, TBB, and Only use OpenCV.
+OpenFace is get from https://github.com/TadasBaltrusaitis/OpenFace, a state-of-the art open source tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. And I create an ios project. Delete Dlib,TBB, Only use OpenCV .
 
 More details about the project - http://www.cl.cam.ac.uk/research/rainbow/projects/openface/
 and github - https://github.com/TadasBaltrusaitis/OpenFace
