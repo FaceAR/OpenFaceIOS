@@ -1,0 +1,8 @@
+PDM pdms/Multi-PIE_aligned_PDM_66.txt
+Triangulations tris_66.txt
+PatchesIntensity patch_experts/intensity_patches_0.25.txt
+PatchesIntensity patch_experts/intensity_patches_0.35.txt
+PatchesIntensity patch_experts/intensity_patches_0.5.txt
+PatchesDepth patch_experts/depth_patches_0.25.txt
+PatchesDepth patch_experts/depth_patches_0.35.txt
+PatchesDepth patch_experts/depth_patches_0.5.txt
