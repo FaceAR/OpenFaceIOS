@@ -1,6 +1,6 @@
 #OpenFaceIOS
 
-OpenFace is get from https://github.com/TadasBaltrusaitis/OpenFace, a state-of-the art open source tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. And I create an ios project. Delete Dlib,TBB, Only use OpenCV .
+OpenFace is get from https://github.com/TadasBaltrusaitis/OpenFace, a state-of-the art open source tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. And I create an ios project. Delete Dlib,TBB, Only use OpenCV . And add Face Swap function, It can swap face to face or swap model to face. 
 
 More details about the project - http://www.cl.cam.ac.uk/research/rainbow/projects/openface/
 Code - https://github.com/TadasBaltrusaitis/OpenFace
@@ -30,7 +30,7 @@ The system is capable of performing a number of facial analysis tasks:
 
 <img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen1.png" height="382" width="222" ><img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen2.png" height="382" width="222" >
 
-- IOS Face Swap
+- Face Swap
 
 <img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen3.png" height="382" width="222" ><img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen4.png" height="382" width="222" >
 
