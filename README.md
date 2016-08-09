@@ -35,4 +35,4 @@ The system is capable of performing a number of facial analysis tasks:
 <img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen3.png" height="382" width="222" ><img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen4.png" height="382" width="222" >
 
 
-<img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen5.png" height="382" width="222" ><img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen6.png" height="382" width="222" >
+<img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen5.png" height="382" width="222" ><img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen6.png" height="382" width="222" ><img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen7.png" height="382" width="222" >
