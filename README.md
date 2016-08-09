@@ -29,3 +29,10 @@ The system is capable of performing a number of facial analysis tasks:
 - IOS Facial Landmark Detection & head pose tracking & Gaze tracking
 
 <img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen1.png" height="382" width="222" ><img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen2.png" height="382" width="222" >
+
+- IOS Face Swap
+
+<img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen3.png" height="382" width="222" ><img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen4.png" height="382" width="222" >
+
+
+<img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen5.png" height="382" width="222" ><img src="https://github.com/FaceAR/OpenFaceIOS/blob/master/imgs/KeeganRen6.png" height="382" width="222" >
