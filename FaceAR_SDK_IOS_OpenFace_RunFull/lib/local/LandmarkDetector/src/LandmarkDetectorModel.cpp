@@ -1102,7 +1102,7 @@ double CLNF::NU_RLMS(cv::Vec6d& final_global, cv::Mat_<double>& final_local, con
     for(int i = 0; i < n; i++)
     {
 
-        if(patch_experts.visibilities[scale][view_id].at<int>(i,0) == 0 )
+        if(patch_experts.visibilities[scale][view_id].at<int>(i,0) == 0 || dxs.dims == 0 )
         {
             continue;
         }
