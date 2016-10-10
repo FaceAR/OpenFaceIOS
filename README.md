@@ -1,3 +1,5 @@
+毕业季了，最近比较忙，先放在这里，后面有机会在更新，抱歉了各位宝宝。
+
 #OpenFaceIOS
 
 OpenFace is get from https://github.com/TadasBaltrusaitis/OpenFace, a state-of-the art open source tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. And I create an ios project. Delete Dlib,TBB, Only use OpenCV . And add Face Swap function, It can swap face to face or swap model to face. 
